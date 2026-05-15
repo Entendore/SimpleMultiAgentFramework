@@ -1,2 +1,0 @@
-ℹ️ Nothing to commit. Proceeding to push.
-✅ git push succeeded
